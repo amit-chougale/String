@@ -8,6 +8,7 @@ public class StringDemo {
 		String s2 = "Chougale";
 		
 		System.out.println(s1);
+		System.out.println(s2);
 	}
 
 }
